@@ -1,0 +1,27 @@
+body {
+  background-color: #EEEEEE;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dashed;
+  border-color: #425F57;
+  /*Border width of hr*/
+  /* border-height: 2px; */
+  /*Border height of hr*/
+  border-width: 2px;
+  /*Width of hr*/
+  /* width : 300px; */
+  /*Height of hr*/
+  /* height : 4px; */
+  /* background-color: yellow; */
+  /* border-top-style: dashed; */
+}
+
+h2 {
+  color : #CF0A0A;
+}
+
+h3 {
+  color : #EA047E;
+}
